@@ -1,0 +1,129 @@
+# <!=Copyright (C) 2017 Apiki
+# This file is distributed under the same license as the Blanktheme package.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Blanktheme 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/style\n"
+"POT-Creation-Date: 2017-10-02 14:05:07+00:00\n"
+"PO-Revision-Date: 2017-10-02 11:05-0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.4\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: src/Controller/Customizer.php:55
+msgid "Logo"
+msgstr "Logotipo"
+
+#: src/Controller/Customizer.php:57
+msgid ""
+"The logo image of the site will be used in the header and footer. Suggested "
+"size <strong>90</strong> pixels in height by <strong>30</strong> pixels in "
+"width."
+msgstr ""
+"A imagem do logotipo do site que será usada no cabeçalho e rodapé. Sugere-se "
+"o tamanho <strong>90</strong> pixels de altura por <strong>30</strong> "
+"pixels de largura."
+
+#: src/Controller/Customizer.php:71
+msgid "Android Chrome theme color"
+msgstr "Android Chrome cor do tema"
+
+#: src/Controller/Images.php:31
+msgid "Card medium"
+msgstr "Card média"
+
+#: src/Controller/Images.php:32
+msgid "Card large"
+msgstr "Card grande"
+
+#: src/Controller/Menus.php:21
+msgid "Menu Header"
+msgstr "Menu Cabeçalho"
+
+#: src/Controller/Settings.php:24
+msgid "Theme Options"
+msgstr "Opções do tema"
+
+#: src/Controller/Settings.php:27
+msgid "General"
+msgstr "Geral"
+
+#: src/Controller/Settings.php:39
+msgid "Header scripts"
+msgstr "Scripts do cabeçalho"
+
+#: src/Controller/Settings.php:40
+msgid "Body scripts"
+msgstr "Scripts do body"
+
+#: src/Controller/Settings.php:41
+msgid "If you need to add scripts to your body, you should enter them here."
+msgstr ""
+"Se você precisar adicionar scripts ao seu cabeçalho, você deve inseri-los "
+"aqui."
+
+#: src/Controller/Settings.php:42
+msgid "Footer scripts"
+msgstr "Scripts do rodapé"
+
+#: src/Helper/Utils.php:120
+msgid "Share on Facebook"
+msgstr "Compartilhar no Facebook"
+
+#: src/Helper/Utils.php:126
+msgid "Share on Linkedin"
+msgstr "Compartilhar no Linkedin"
+
+#: src/Helper/Utils.php:133
+msgid "Share on Google +"
+msgstr "Compartilhar no Google +"
+
+#: src/Helper/Utils.php:140
+msgid "Share on WhatsApp"
+msgstr "Compartilhar no WhatsApp"
+
+#: src/Helper/Utils.php:146
+msgid "Share on Twitter"
+msgstr "Compartilhar no Twitter"
+
+#: src/Helper/Utils.php:153
+msgid "Share on Pinterest"
+msgstr "Compartilhar no Pinterest"
+
+#. translators: %s: post permalink
+#: src/Helper/Utils.php:174
+msgid "I thought you’d like this article %s"
+msgstr "Eu acho que você vai gostar deste artigo %s"
+
+#. translators: %s: post permalink
+#: src/Helper/Utils.php:176
+msgid "Read more: %s"
+msgstr "Leia mais: %s"
+
+#. Theme Name of the plugin/theme
+msgid "Blanktheme"
+msgstr "Blanktheme"
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/Apiki/blanktheme"
+msgstr "https://github.com/Apiki/blanktheme"
+
+#. Description of the plugin/theme
+msgid "Theme Boilerplate."
+msgstr "Theme Boilerplate."
+
+#. Author of the plugin/theme
+msgid "Apiki"
+msgstr "Apiki"
+
+#. Author URI of the plugin/theme
+msgid "https://apiki.com"
+msgstr "https://apiki.com"
+
+#~ msgid "Menu Cabeçalho"
+#~ msgstr "Menu Cabeçalho"

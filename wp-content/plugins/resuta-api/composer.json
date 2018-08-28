@@ -1,0 +1,19 @@
+{
+    "name": "resuta/resuta-api",
+    "description": "Resuta API.",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0",
+    "require": {
+		"htmlburger/carbon-fields": "^2.0"
+	},
+    "extra": {
+        "installer-paths": {
+            "vendor/{$vendor}/{$name}/": ["type:wordpress-plugin"]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "RESUTA\\API\\": "src/"
+        }
+    }
+}

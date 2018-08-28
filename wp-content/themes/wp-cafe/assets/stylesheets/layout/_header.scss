@@ -1,0 +1,39 @@
+.header {
+  padding: 20px;
+  height: 125px;
+}
+
+.app {
+  float: left;
+  text-align: center;
+  cursor: pointer;
+  transition: .3s ease-in-out;
+  margin-right: 25px;
+  margin-bottom: 25px;
+
+  &:hover {
+    opacity: .6;
+    background: rgba(255, 255, 255, 0.4);
+    border-radius: 2px;
+  }
+
+  .name-icon {
+    // background: #225aa0;
+    padding: 2px 3px;
+    line-height: 1.3;
+    color: #fff;
+    font-size: 12px;
+  }
+}
+.icon-logo {
+  height: 64px;
+  width: 64px;
+  overflow: hidden;
+  display: inline-block;
+
+  img {
+    display: block;
+    width: auto;
+    height: 100%;
+  }
+}

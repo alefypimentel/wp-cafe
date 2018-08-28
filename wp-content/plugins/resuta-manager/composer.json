@@ -1,0 +1,12 @@
+{
+    "name": "resuta/resuta-manager",
+    "description": "Resuta Manager.",
+    "type": "wordpress-plugin",
+    "license": "GPL",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "RS\\Resuta\\": "src/"
+        }
+    }
+}
